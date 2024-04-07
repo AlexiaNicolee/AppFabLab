@@ -130,9 +130,7 @@ class _TelaControlesState extends State<TelaControles> {
                     _articulacao2Controller.text.isNotEmpty &&
                     _articulacao3Controller.text.isNotEmpty &&
                     _garraController.text.isNotEmpty) {
-                  // Implemente aqui a lógica para finalizar a operação
-                  // Exemplo: envio dos valores para outro lugar, processamento dos dados, etc.
-                  // Por enquanto, apenas exibimos uma mensagem
+                 
                   showDialog(
                     context: context,
                     builder: (BuildContext context) {
