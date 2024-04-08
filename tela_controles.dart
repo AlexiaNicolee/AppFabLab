@@ -19,7 +19,7 @@ class _TelaControlesState extends State<TelaControles> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Controles do Braço Robótico',
+          'Controle do Braço Robótico',
           style: TextStyle(color: Colors.white), // Cor do texto do título
         ),
         centerTitle: true,
